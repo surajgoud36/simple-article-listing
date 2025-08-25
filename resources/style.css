@@ -67,4 +67,7 @@ p {
         align-items: flex-start;
         row-gap: 1.5rem;
     }
+    .main-container{
+        height: 100%;
+    }
 }
